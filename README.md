@@ -1,3 +1,4 @@
+# Diwali Sales Analysis
 This project focuses on analyzing sales data during the Diwali festival. The goal is to understand sales trends, identify high-performing products, and provide actionable insights for business growth. The analysis includes:
 
 Data cleaning and preprocessing using Pandas.
